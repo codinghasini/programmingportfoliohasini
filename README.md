@@ -20,7 +20,7 @@ Graphics project with keypress drawing controls with the ability to save images.
 
 
 
-![Running App](https://github.com/codinghasini/programmingportfoliohasini/blob/main/images/sketch.png)
+![Running App](https://github.com/codinghasini/programmingportfoliohasini/blob/main/images/sketch.png/?raw=true)
 
 
 
@@ -39,7 +39,7 @@ Object oriented graphical calculator with custom buttons and UI.
 
 
 
-![Running App](https://github.com/codinghasini/programmingportfoliohasini/blob/main/images/calc.png) 
+![Running App](https://github.com/codinghasini/programmingportfoliohasini/blob/main/images/calc.png/?raw=true) 
 
 
 
