@@ -48,8 +48,8 @@ Object oriented graphical calculator with custom buttons and UI.
 
 
 ### SpaceGame
-Description: OOP solution for a collision based space them game.
-![Gameplay](![image](https://github.com/user-attachments/assets/aa9c918f-a9bf-446d-b86c-0a92aba30386)
+Description: OOP solution for a collision based space theme game.
+(![image](https://github.com/user-attachments/assets/aa9c918f-a9bf-446d-b86c-0a92aba30386)
 
 
 
