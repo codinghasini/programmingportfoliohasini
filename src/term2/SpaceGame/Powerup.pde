@@ -2,6 +2,7 @@ class Powerup {
   int x, y, diam, speed;
   char type;
   Powerup() {
+
     x= int(random(width));
     y= -100;
     diam = int(random(20, 80));

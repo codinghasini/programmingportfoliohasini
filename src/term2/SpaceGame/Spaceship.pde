@@ -22,9 +22,9 @@ class Spaceship {
     stroke(0,0,0);
     fill(#AA1B59);
     ellipse(x, y, 40, 90);
-    fill(99);
+    fill(#742A4D);
     ellipse(x+2, y+30, 65, 10);
-    fill(99);
+    fill(#710E37);
     circle(x, y-5, 20);
   }
 

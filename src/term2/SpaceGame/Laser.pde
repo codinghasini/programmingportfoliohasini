@@ -12,8 +12,10 @@ class Laser {
   }
   // Member Methods
   void display() {
+    fill(#FA086D);
     rectMode(CENTER);
     rect(x,y,w,h);
+    
     
   }
 

@@ -32,7 +32,7 @@ void draw() {
     background(0);
     if (frameCount % 1000 == 0) {
       level++;
-      rockRate-= 50;
+      t1.totalTime -= 50;
       //level = level +1;
     }
     stars.add(new Star());
@@ -73,12 +73,10 @@ void draw() {
       for (int j = 0; j < rocks.size(); j++) {
         Rock rock = rocks.get(j);
         if (laser.intersect(rock)) {
-          rock.diam -= 10;
-
+          rocks.remove(rock);
+          score += 5;
           lasers.remove(laser);
           if (rock.diam <1) {
-            rocks.remove(rock);
-            score += 5;
           }
         }
       }
@@ -126,9 +124,21 @@ void draw() {
 
 
 void keyPressed() {
-  if (keyPressed && key == ' ' && s1.fire()) {
+  if (!laser.isPlaying()) {
+    laser.play();
+  }
+
+  if (s1.fire() && s1.turretCount == 1) {
     lasers.add(new Laser(s1.x, s1.y));
     s1.laserCount--;
+  } else if (s1.fire() && s1.turretCount == 2) {
+    lasers.add(new Laser (s1.x-10, s1.y));
+    lasers.add(new Laser (s1.x+10, s1.y));
+    s1.laserCount-=2;
+  } else if (s1.fire() && s1.turretCount > 2) {
+    lasers.add(new Laser (s1.x-10, s1.y));
+    lasers.add(new Laser (s1.x+10, s1.y));
+    s1.laserCount-=2;
   }
 }
 
@@ -144,7 +154,7 @@ void infoPanel() {
   fill(127, 127);
   rect(width/2, 20, width, 40);
   fill(255);
-  textSize(35);
+  textSize(20);
   text("Score:" + score, 20, 36);
   text("Health:" + s1.health, 200, 36);
   text("Level:" + level, 410, 36);
@@ -152,8 +162,8 @@ void infoPanel() {
 }
 
 void startScreen() {
-  background(#642424);
-  fill(#AF3935);
+  background(#742A4D);
+  fill(#AA1B59);
   font = createFont("Courier New", 32);
   textFont(font);
   textSize(60);
@@ -162,6 +172,8 @@ void startScreen() {
   text("Made by Kirubashini S", 175, 300);
   textSize(50);
   text("Please click to start", 100, 500);
+  textSize(30);
+  text("Powerups: purple = ammo, yellow = health", 40, 600);
   if (mousePressed) {
     play = true;
   }
@@ -169,11 +181,19 @@ void startScreen() {
 
 
 void gameOver() {
-  background(0);
-  fill(255);
-  text("Game Over", width/2, 300);
-  text("Score:" + score, width/2, 320);
-  text("level:" + level, width/2, 340);
+  background(#742A4D);
+  fill(#AA1B59);
+  font = createFont("Courier New", 32);
+  textFont(font);
+  textSize(60);
+  text("Game Over :(", 200, 300);
+  textSize(40);
+  text("level:" + level, 310, 350);
+  textSize(50);
+  text("Score:" + score, 255, 500);
+  //text("Game Over", width/2, 300);
+  //text("Score:" + score, width/2, 320);
+  //text("level:" + level, width/2, 340);
 }
 
 void ticker() {
