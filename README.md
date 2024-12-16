@@ -1,4 +1,5 @@
 # Kirubashinilakshana Senthilnathan's Programming Portfolio 2024-25
++ kirubashinilps@gmail.com
 + projected graduation in 2028
 + proficent in editing
 + I know some javascript
