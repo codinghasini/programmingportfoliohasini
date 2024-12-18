@@ -1,3 +1,11 @@
+![a3d32a16ff5241f70173af7554e929ac](https://github.com/user-attachments/assets/e70752df-a135-4bf8-87f7-f0542e9027b1)
+
+
+
+
+
+
+
 # Kirubashinilakshana Senthilnathan's Programming Portfolio 2024-25
 + contact info: kirubashinilps@gmail.com
 + projected graduation in 2028
@@ -7,14 +15,17 @@
 + took coding classes in 2022-23
 + have made a working website in HTML code.
 
+
+
 # Certifications
-(![image](![Screenshot 2024-12-18 at 12 00 46 PM](https://github.com/user-attachments/assets/9c39f218-29e4-420b-99c9-c5f478475033)
+
+(![Screenshot 2024-12-18 at 12 00 46 PM](https://github.com/user-attachments/assets/9c39f218-29e4-420b-99c9-c5f478475033)
 
 
 
 
 
-![title](https://64.media.tumblr.com/be8017ba742792c842254da7b7e4eaaa/654c5e5db83966db-8a/s1280x1920/4b6feb77e4fdd2fb1f82585be96437113a8a7eae.png)
+
   
 ## Term 1
 ### Etch-A-Sketch
