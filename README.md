@@ -1,10 +1,18 @@
 # Kirubashinilakshana Senthilnathan's Programming Portfolio 2024-25
-+ kirubashinilps@gmail.com
++ contact info: kirubashinilps@gmail.com
 + projected graduation in 2028
 + proficent in editing
-+ I know some javascript
++ minute knowledge in javascript
++ proficent in Java
 + took coding classes in 2022-23
-+ I have made a website before
++ have made a working website in HTML code.
+
+# Certifications
+(![image](![Screenshot 2024-12-18 at 12 00 46 PM](https://github.com/user-attachments/assets/9c39f218-29e4-420b-99c9-c5f478475033)
+
+
+
+
 
 ![title](https://64.media.tumblr.com/be8017ba742792c842254da7b7e4eaaa/654c5e5db83966db-8a/s1280x1920/4b6feb77e4fdd2fb1f82585be96437113a8a7eae.png)
   
