@@ -19,7 +19,7 @@
 
 # Certifications
 
-(![Screenshot 2024-12-18 at 12 00 46 PM](https://github.com/user-attachments/assets/9c39f218-29e4-420b-99c9-c5f478475033)
+![Screenshot 2024-12-18 at 12 00 46 PM](https://github.com/user-attachments/assets/9c39f218-29e4-420b-99c9-c5f478475033)
 
 
 
