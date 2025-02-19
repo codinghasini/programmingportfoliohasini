@@ -99,7 +99,7 @@ Description: OOP solution for a collision based space theme game.
 ### ShapeTester
 demonstration of classes and methods
 
-![Running App](https://github.com/codinghasini/programmingportfoliohasini/blob/main/images/ShapeTester.png)
+![Running App](https://github.com/codinghasini/programmingportfoliohasini/blob/main/images/Screenshot%202025.png?raw=true)
 
 
 [Source Code](https://github.com/codinghasini/programmingportfoliohasini/tree/main/src/term3/ShapeTester2.java)
