@@ -27,7 +27,7 @@
 
 
 
-![Screen Shot 2025-05-23 at 12.29.30 PM](https://github.com/user-attachments/assets/9c39f218-29e4-420b-99c9-c5f478475033)
+![Kirubashini Senthilnathan_Computer Programming 2 Java _05092025.pdf](https://github.com/user-attachments/assets/9c39f218-29e4-420b-99c9-c5f478475033)
 
 
 
