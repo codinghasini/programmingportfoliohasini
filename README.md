@@ -27,7 +27,7 @@
 
 
 
-![Kirubashini Senthilnathan_Computer Programming 2 Java _05092025.pdf]
+![K[irubashini Senthilnathan_Computer Programming 2 Java _05092025.pdf](https://github.com/codinghasini/programmingportfoliohasini/blob/main/images/Screen%20Shot%202025-05-23%20at%2012.29.30%20PM.png)]
 
 
 
