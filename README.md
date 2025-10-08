@@ -13,7 +13,7 @@
 + minute knowledge in javascript
 + proficient in Java
 + took coding classes in 2022-23
-+ have made a working website in HTML code.
++ has made a working website in HTML code.
 
 
 
